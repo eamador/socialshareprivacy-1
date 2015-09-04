@@ -1,0 +1,7 @@
+{
+    "name": "eamador/socialshareprivacy-1",
+    "description": "A jQuery plugin that allows you to add social buttons in a privacy friendly way",
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
