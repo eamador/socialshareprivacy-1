@@ -1,7 +1,11 @@
 {
     "name": "eamador/socialshareprivacy-1",
     "description": "A jQuery plugin that allows you to add social buttons in a privacy friendly way",
+    "homepage": "https://github.com/eamador/socialshareprivacy-1",
     "require": {
         "php": ">=5.5.0"
-    }
+    },
+    "autoload": {
+        "classmap": ["/"]
+    },
 }
